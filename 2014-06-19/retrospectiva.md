@@ -6,6 +6,7 @@
 
 #:(
 
+- pizza de milho --'
 - timidez no início
 - pouca experiência com TDD
 - atraso para começar
