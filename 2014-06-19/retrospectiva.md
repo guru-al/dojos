@@ -11,6 +11,7 @@
 - atraso para começar
 - pares falando baixo
 - definição de etapas
+- o problema não foi terminado
 
 #Melhorar
 
