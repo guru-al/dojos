@@ -5,7 +5,7 @@
 
 (em ordem alfabética)
 
-* Arthur Santos
+* Arthur Santos (@arthurluiz_)
 * Bruno Rocha
 * Ivan Santos (@pragmaticivan)
 * Netinhu Filho 
